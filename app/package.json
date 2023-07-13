@@ -1,0 +1,73 @@
+{
+  "name": "resin-electronjs",
+  "version": "0.2.0",
+  "eslintIgnore": [
+    "*.js"
+  ],
+  "description": "electronJS-based resin application",
+  "main": "main.js",
+  "homepage": "./",
+  "scripts": {
+    "dev": "react-scripts start & URL_LAUNCHER_NODE=1 URL_LAUNCHER_URL=http://localhost:3000 NODE_ENV=development electron .",
+    "lint": "eslint .",
+    "start": "URL_LAUNCHER_NODE=1 NODE_ENV=production startx ./node_modules/electron/dist/electron .",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron": "URL_LAUNCHER_NODE=1 electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resin-io/resin-electronjs.git"
+  },
+  "keywords": [
+    "resin",
+    "io",
+    "electron",
+    "js"
+  ],
+  "dependencies": {
+    "@electron/rebuild": "3.2.13",
+    "cors": "2.8.5",
+    "electron": "24.0.0",
+    "electron-debug": "3.2.0",
+    "express": "4.18.2",
+    "google-auth-library": "^8.8.0",
+    "googleapis": "^118.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-elfsight-widget": "^1.1.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "react-twitter-embed": "^4.0.4",
+    "recharts": "^2.5.0",
+    "util": "0.12.5"
+  },
+  "author": "Carlo Maria Curinga",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/resin-io/resin-electronjs/issues"
+  },
+  "jshintConfig": {
+    "esversion": 6,
+    "strict": true
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-react": "^7.32.2",
+    "react-inject-env": "^2.1.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

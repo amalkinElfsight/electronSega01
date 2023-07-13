@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "esport-factory-dashboard",
+  "private_key_id": "f0e9ca4edbc6a51b97f66ca75bc1e474119092a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJuQqDnA3bXgIS\nmZeV/ALBcGOu5nNEqutM4iz9BPzhPPhudjXHGVp6waud8XeewwO7lbHvp9F6RDAI\nf324WmqOGlDVlXHPD3t7DagFmvJWwoCPcKrD1eiubT8opu7Q/+E53K60jGuMv8V7\ndsLW7f0fjFjZ0+3du7zlqgvs3uwG+Zz2thJIDDSJUeBJhMUD33znihUapBAakRSM\nU/84U6mlDF8aPHuVDv2dju3TkQ1+pg45s9C1pOtacLUauAGJJ1iPy42Mrgp6sq/q\n8ve27bpaWpD5tkYhGSRmtI33mf6+qZomBKaPqLT3KyQo4T4+DOz6As+mA3AkIUoS\nFYnH2v0dAgMBAAECggEAAsduBy9V7HfyFNS3qUyS5fHcO5JGpw3+JZpoWGRGu5YK\n2IgRCogDOBe4roqOVnTahoLaTbJRs7zo4Y/BrU2BC8N1cpAXXkrUpP9Gsxt4GGrT\nBi9lo2Tn5C/QcLxVEt07C5F9mzJ9X3xsl1PYHy/ln7DGSeuNLuTDsPnCrpCE+aPd\n51FDLsqg5U9ckaU8k4yT+WU3CBKIIeOxr0PphJKf/WWzbZiqR3Fv/Ncw0oHx6jEt\netxKn033VPDqPlNJPEBBlUb/1LKXFHu0MlNlNe37PqIxpW38tsaK6vES1opOIx4Y\nQZrs28IoPWTV36zEcIIm0QAjBQasHqKNWV0fBAhTPQKBgQDqTA0RXIbPQLc11Qx6\nGpq/aLcQwdAWMIzEU0dRExIdUO/w4FPmivc79VyKC2Ig8v9bfyq7oauiZYORdFqn\nLdFTss2b8Z7E+F2zlbvHDqn4xsoQJRuMmHcOMM8ie8uGMs0aABIN3nNshK97evmf\nwkHDcERQ3Ng7+CATY3CJq8He5wKBgQDcaIxH4nHOedk2KciV2IPDzC1r1W0ug7Un\n7wb59ZSi6TpiXZIK+xa6HJF9mBqduE+ha/vWHTOby8fZN+EPQUzEEIaeKQ0aosE4\nGFAtus9+G7XGmAfPQ3iH7KtbOSvndhOIrs8PZY4NAwyCrCKZ3mSUVVI27ZZSevqe\n/heADoYXWwKBgQCMvtzGxidxjvXAD9ir7RlyzGvUVCk1ezrEoSZhTKyAEePhdlDQ\nWECGszFA9++dzXuasjywdEEPkB3GHfhrHzn1Jp8fA7mVp4FaZSNlQ6jVek1d/3ya\nK+ixDJ8Rnv43AoN1D//Idw4tbVOhQNF9qAsrZWCUluYKuFZEb2LmQNh4lwKBgDvn\nXlkbPnszuslxycaQNh+9Gos4UphVy6Ky4F6HVIKCiQ+7BrpdS+wBX7mW4YUEVwA0\nbRngjepGFGcBPPX8dXTEWRIbbihTG9i3IvOK1mIb/eef4l9+ov+uX1RH0ZrzCJQZ\njsVMgLMgpQHO7wiK3SNDnTi4kiaQrhUQUirHx8IJAoGAemzBHFlLNgjdZnn/61Dg\nSTXrPbmWYWmR/8an3IJD1PI75qnNgr03c5MBprBjhsDUwgfhTwCNGpOv5+uDuSjO\nwBG5zyshrpRF8pB9m8W9JFicc0mbt/zPcaT3kBYrg1uoT0sSX9/ZgjrUeqEwJOzI\nEQ7FpIjf60T//K6YfW4rULk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "esport-factory-dashboard@esport-factory-dashboard.iam.gserviceaccount.com",
+  "client_id": "109774179811396088576",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/esport-factory-dashboard%40esport-factory-dashboard.iam.gserviceaccount.com"
+}

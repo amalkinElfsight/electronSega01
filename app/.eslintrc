@@ -1,0 +1,22 @@
+// Use this file as a starting point for your project's .eslintrc.
+// Copy this file, and add rule overrides as needed.
+{
+  "extends": "airbnb-base",
+  "rules":{
+        "no-tabs": 0,
+        "semi": ["off", "never"],
+        "react/jsx-uses-semi": ["off"],
+        "quotes": "off",
+        "no-mixed-spaces-and-tabs": 0,
+        "object-curly-spacing": "off",
+        "object-curly-newline": "off",
+        "eol-last": "off",
+        "spaced-comment": "off",
+        "class-methods-use-this": "off",
+        "comma-dangle": "off",
+        "indent": "off",
+        "no-unused-vars": "off",
+        "no-trailing-spaces": "off",
+        "padded-blocks": "off"
+    }
+}

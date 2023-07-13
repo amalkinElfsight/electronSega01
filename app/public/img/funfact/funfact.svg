@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="FunFakt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 353.05 324.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #db8037;
+        strokeMiterlimit: 10;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m339.89,98.54l12.66-12.87v-47.56l-12.78-12.78-.25-24.32L13.7.5m0,0L.93,13.37l-.43,220.56,12.64,12.77v53.97l-12.64,13.55v10h164.94l11.75-13.21h74.36l11.66,13.21m76.68-225.68l-.12,213.37-12.78,12.31h-63.78"/>
+</svg>
